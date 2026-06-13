@@ -49,7 +49,8 @@ export default function Navbar({ cart, onOpenCart, activeSection }: NavbarProps)
             </span>
             <div className="flex flex-col">
               <span className="font-sans font-bold text-lg tracking-tight bg-gradient-to-r from-zinc-100 via-zinc-200 to-teal-400 bg-clip-text text-transparent">
-                http://localhost:3000/#features
+                SolidCoat Solutions
+                
               </span>
               <span className="font-mono text-[9px] text-zinc-400 tracking-widest uppercase">
                 Level-5 Finishing
